@@ -1,0 +1,51 @@
+*{
+  font-family: "Playwrite NZ", cursive;
+  font-optical-sizing: auto;
+  font-weight: 200;
+  font-style: normal;
+}
+
+.border {
+  border: 1px solid black;
+}
+
+.container {
+  width: 70rem;
+  margin-top: 5rem;
+  display: flex;
+  flex-wrap: wrap;
+}
+.heading {
+  width: 100%;
+  height: 40px;
+  text-align: center;
+}
+.word {
+  width: 100%;
+  height: 50px;
+  padding-left: 15px;
+  font-size: 30px;
+}
+.content {
+  height: 24em;
+  padding-top: 10px;
+  padding-left: 10px;
+}
+.text {
+  width: 68rem;
+  height: 22em;
+  /* border: 1px solid yellow; */
+}
+.sub-title {
+  height: 35px;
+  width: 100%;
+  font-size: 20px;
+  /* border: 1px solid purple; */
+}
+.defination {
+  width: 100%;
+  /* border: 1px solid blue; */
+}
+.nav{
+    position: sticky;
+}
